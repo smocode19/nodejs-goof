@@ -214,4 +214,5 @@ In this application, the default `snyk wizard` answers will fix all the issues.
 When the wizard is done, restart the application and run the exploits again to confirm they are fixed.
 
 
-##This is an important part of learning! 
+## Just adding this for check purposes
+## Don't use GitLab !!
